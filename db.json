@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "conferences": 
+  [
+    { "id": 1, "body": "conference 1", "postId": 1 },
+    { "id": 2, "body": "conference 2", "postId": 1 }
+  ]
 }
